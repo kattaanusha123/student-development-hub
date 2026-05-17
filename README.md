@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Student Development Hub
 
-# Run and deploy your AI Studio app
+AI-powered student guidance platform developed to help students with career recommendations, project ideas, and college insights.
 
-This contains everything you need to run your app locally.
+## Features
+- Career recommendation system
+- AI chatbot assistance
+- Project suggestions
+- College review analysis
+- Personalized student guidance
 
-View your app in AI Studio: https://ai.studio/apps/2d77a240-4030-4ff8-9431-0b5cd3079126
+## Technologies Used
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Google AI Studio
+- Machine Learning Concepts
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Project Overview
+This project helps students explore career opportunities, discover project ideas, and receive AI-powered guidance based on their interests and academic goals.
